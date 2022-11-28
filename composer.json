@@ -1,0 +1,18 @@
+{
+    "name": "socodo/cli",
+    "description": "CLI component for socodo.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Socodo\\CLI\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Qroffle Inc.",
+            "email": "socodo@qroffle.com"
+        }
+    ],
+    "require": {}
+}
